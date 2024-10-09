@@ -16429,7 +16429,7 @@ up:     1
 142.250.78.228
 files
 nisplus
-64 bytes from 142.250.78.228: seq=27936 ttl=112 time=28.468 ms
+64 bytes from 142.250.78.228: seq=28033 ttl=112 time=28.085 ms
 m 142.250.78.228: seq=0 ttl=112 time=31.444 ms
 local
 allnodes
@@ -44217,7 +44217,7 @@ cluster
 local
 67-117
 142.250.78.228
-27530
+28459
 RIVA
 __libc_early_`
 x86_64
